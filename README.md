@@ -8,7 +8,6 @@ Files:
 
 marketing_training.csv - contains the training set that you will use to build the model. The target variable is ‘responded’
 marketing_test.csv – contains testing data where the input variables are provided but not the ‘responded’ target column.
-Readme.pdf – this document.
 
 Provide the following:
 
