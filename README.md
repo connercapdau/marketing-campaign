@@ -10,15 +10,13 @@ marketing_training.csv - contains the training set that you will use to build th
 marketing_test.csv – contains testing data where the input variables are provided but not the ‘responded’ target column.
 Readme.pdf – this document.
 
-Deliverables:
-
 Provide the following:
 
 • The source code you used to build the model and make predictions. (You are free to use any language and any open-source package/library)
 
 • A .csv file containing the predictions of the test data. You can add the target column (‘responded’) to the test data or simply provide it alone with the ‘id’ column.
 
-Briefly answer the following questions:
+• Briefly answer the following questions:
 
 - Describe your model and why did you choose this model over other types of models?
 
