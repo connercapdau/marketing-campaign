@@ -15,7 +15,7 @@ Provide the following:
 
 • A .csv file containing the predictions of the test data. You can add the target column (‘responded’) to the test data or simply provide it alone with the ‘id’ column.
 
-• Briefly answer the following questions:
+• Briefly answer the following questions (answers found in marketing_answers.txt):
 
 - Describe your model and why did you choose this model over other types of models?
 
